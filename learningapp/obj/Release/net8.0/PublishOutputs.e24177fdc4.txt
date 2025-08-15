@@ -1,0 +1,7 @@
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\learningapp.exe
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\appsettings.Development.json
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\appsettings.json
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\learningapp.dll
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\learningapp.deps.json
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\Dakshina\AzTraining2\WebApp\Learningapp1\learningapp\bin\publish\learningapp.pdb
